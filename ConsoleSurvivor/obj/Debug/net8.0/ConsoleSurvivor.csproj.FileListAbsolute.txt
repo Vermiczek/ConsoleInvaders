@@ -1,0 +1,14 @@
+/Users/babizak/RiderProjects/ConsoleSurvivor/ConsoleSurvivor/obj/Debug/net8.0/ConsoleSurvivor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babizak/RiderProjects/ConsoleSurvivor/ConsoleSurvivor/obj/Debug/net8.0/ConsoleSurvivor.AssemblyInfoInputs.cache
+/Users/babizak/RiderProjects/ConsoleSurvivor/ConsoleSurvivor/obj/Debug/net8.0/ConsoleSurvivor.AssemblyInfo.cs
+/Users/babizak/RiderProjects/ConsoleSurvivor/ConsoleSurvivor/obj/Debug/net8.0/ConsoleSurvivor.csproj.CoreCompileInputs.cache
+/Users/babizak/RiderProjects/ConsoleSurvivor/ConsoleSurvivor/bin/Debug/net8.0/ConsoleSurvivor
+/Users/babizak/RiderProjects/ConsoleSurvivor/ConsoleSurvivor/bin/Debug/net8.0/ConsoleSurvivor.deps.json
+/Users/babizak/RiderProjects/ConsoleSurvivor/ConsoleSurvivor/bin/Debug/net8.0/ConsoleSurvivor.runtimeconfig.json
+/Users/babizak/RiderProjects/ConsoleSurvivor/ConsoleSurvivor/bin/Debug/net8.0/ConsoleSurvivor.dll
+/Users/babizak/RiderProjects/ConsoleSurvivor/ConsoleSurvivor/bin/Debug/net8.0/ConsoleSurvivor.pdb
+/Users/babizak/RiderProjects/ConsoleSurvivor/ConsoleSurvivor/obj/Debug/net8.0/ConsoleSurvivor.dll
+/Users/babizak/RiderProjects/ConsoleSurvivor/ConsoleSurvivor/obj/Debug/net8.0/refint/ConsoleSurvivor.dll
+/Users/babizak/RiderProjects/ConsoleSurvivor/ConsoleSurvivor/obj/Debug/net8.0/ConsoleSurvivor.pdb
+/Users/babizak/RiderProjects/ConsoleSurvivor/ConsoleSurvivor/obj/Debug/net8.0/ConsoleSurvivor.genruntimeconfig.cache
+/Users/babizak/RiderProjects/ConsoleSurvivor/ConsoleSurvivor/obj/Debug/net8.0/ref/ConsoleSurvivor.dll
