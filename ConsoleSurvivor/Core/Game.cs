@@ -1,3 +1,5 @@
+using ConsoleSurvivor.Core;
+
 namespace Core;
 using World = ConsoleSurvivor.Game.World;
 
@@ -19,7 +21,7 @@ public class Game
       Options = options;
       _world = new World(options.Resolution.width, options.Resolution.height);
    }
-
+   
    public async void RunGameloop()
    {
       
@@ -32,9 +34,11 @@ public class Game
    
    public void Run()
    {
+      EventListener.Instance.Listen();
       while(true){
          _world.Update();
          Renderer.Render(_world);
+         Logger.Instance.PrintLatestLogs(10);
          Thread.Sleep(1000);
       }
    }

@@ -12,6 +12,7 @@ public class World
         Console.WriteLine("World created with size: " + width + "x" + height);
         PlayerInstance = Player.CreatePlayer(10, 10);
     }
+    
     public void Update()
     {
         Console.WriteLine("World updated!");

@@ -1,4 +1,5 @@
 using System.Threading.Tasks;
+using Core;
 
 namespace ConsoleSurvivor.Core;
 
@@ -40,8 +41,8 @@ public class EventListener
                 },
                 UserEvent = keyInfo.Key.ToString()
             };
-            Events.Add(newEvent);
-            Console.WriteLine($"Event recorded: {newEvent.UserEvent} at {newEvent.Timestamp.Hour}:{newEvent.Timestamp.Minute}:{newEvent.Timestamp.Second}.{newEvent.Timestamp.Millisecond}");
+            Events.Add(newEvent); 
+            Logger.Instance.AddLog($"User event happened: {newEvent.UserEvent}");
             await Task.Delay(100);
         }
     }
